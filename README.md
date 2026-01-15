@@ -1,10 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Naresh Kumar Vaid</h1>
+<h3 align="center">🚀 Flutter Developer | Turning Ideas Into Beautiful Apps</h3>
 
-<h1 align="center">Hi I'm Naresh Kumar Vaid</h1>
+<p align="center">
+  <b>📍 Jaipur, India</b> <br/>
+  💼 Working at <b>Brixcode Technologies</b> <br/>
+  🧑‍💻 Passionate about building real-world Flutter applications
+</p>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning from YouTube and other sources
-- 💬 Ask me anything about Flutter 
+<hr/>
+
+### 👨‍💻 About Me
+- 🔭 Currently crafting **modern Flutter apps**
+- 🌱 Learning every day through **YouTube, documentation & real projects**
+- 🛠️ Focused on **clean UI, smooth UX & scalable code**
+- 💬 Ask me anything about **Flutter & mobile app development**
+
+<hr/>
+
+### ⚡ Fun Fact
+> I don’t just write code — I **bring ideas to life on mobile screens** 📱✨
+
+### 🤝 Let’s Connect
+<p>
+  ⭐ Explore my repositories and don’t forget to star if you like my work!  
+</p>
+
   
 ### Connect with me:
 <div id="badges">
